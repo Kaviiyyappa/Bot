@@ -1,5 +1,5 @@
-#Copyright @ISmartCoder
-#Updates Channel @abirxdhackz
+#Copyright @Imavailableforfu
+#Updates Channel @nevagoebotz
 API_ID = 34817033
 API_HASH = '77209f19451be9502c3e14c08b7aadc9'
 BOT_TOKEN = '8240929917:AAE0o2aSMGofR1Jp8Iw5gbnhjUu0sASfCVE'
