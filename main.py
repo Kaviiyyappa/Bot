@@ -58,10 +58,10 @@ async def run_api_server():
         
         api_module.edit_sessions = shared_edit_sessions
         
-        LOGGER.info("Starting FastAPI server on http://regional-rosemarie-kavi1047-94329577.koyeb.app")
+        LOGGER.info("Starting FastAPI server on http://0.0.0.0:8000")
         LOGGER.info("API server is using shared edit_sessions")
         
-        await api_module.run_server(host="http://regional-rosemarie-kavi1047-94329577.koyeb.app", port=8000)
+        await api_module.run_server(host="0.0.0.0", port=8000)
     except ImportError as e:
         LOGGER.warning(f"FastAPI server module not found: {e}")
     except Exception as e:
