@@ -1,8 +1,8 @@
 #Copyright @Imavailableforf
 #Updates Channel @nevagoebotz
-API_ID = 34817033
-API_HASH = '77209f19451be9502c3e14c08b7aadc9'
-BOT_TOKEN = '8240929917:AAE0o2aSMGofR1Jp8Iw5gbnhjUu0sASfCVE'
+API_ID = 36464925
+API_HASH = '942f6440a3ab83321135d7c1927aba0a'
+BOT_TOKEN = '8332032232:AAH_VSu1ofYsC2leIazZd2Q44-t1-lNMGYs'
 UPDATE_CHANNEL_URL = 'https://t.me/nevagoebotz'
 
 COMMAND_PREFIXES = ['/', '!', '.', ',', '$', '#']
