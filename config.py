@@ -7,4 +7,4 @@ UPDATE_CHANNEL_URL = 'https://t.me/nevagoebotz'
 
 COMMAND_PREFIXES = ['/', '!', '.', ',', '$', '#']
 
-API_BASE_URL = 'http://149.154.167.40:443'
+API_BASE_URL = 'http://regional-rosemarie-kavi1047-94329577.koyeb.app/'
